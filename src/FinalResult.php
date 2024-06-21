@@ -68,14 +68,6 @@ class FinalResult {
     }
 }
 
-// Instantiate FinalResult object and call results method
-//$obj = new FinalResult();
-//$csvfile = "c:/data_sample.csv"; 
-//$result = $obj->results($csvfile);
 
-// Output the result
-//echo '<pre>';
-//print_r($result);
-//echo '</pre>';
 
 ?>
