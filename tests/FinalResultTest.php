@@ -43,7 +43,5 @@ final class FinalResultTest extends TestCase
         $this->assertEquals($this->expected_return, $res);
     }
 }
-//$result = $f->results($res);
-        //echo '<pre>';
-//print_r($result);
-//echo '</pre>';
+
+
